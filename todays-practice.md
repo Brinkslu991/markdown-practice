@@ -10,6 +10,6 @@
 `print("Hellow World)`
 
 ## About Me
-- I like video games
-- I like Avenged Sevenfold
-- I hve four dogs
+- **I like video games**
+- *I like Avenged Sevenfold*
+
