@@ -1,4 +1,4 @@
 # WEB & GAME DESIGN
 ## Lucas Brinks
 ### Markdown Practice
-![mexico](new-mexico-sm.jpg)
+![mexico](new_mexico_sm.jpg)
