@@ -5,7 +5,9 @@
 
 [Amazon](https://www.amazon.com/)
 
-[Python forBeginners](https://www.youtube.com/watch?v=H2EJuAcrZYU)
+[Python for Beginners](https://www.youtube.com/watch?v=H2EJuAcrZYU)
+
+`print("Hellow World)`
 
 ## About Me
 - I like video games
