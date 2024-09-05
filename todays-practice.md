@@ -1,2 +1,2 @@
-# WEB AND GAME DESIGN
+# WEB & GAME DESIGN
 ## Lucas Brinks
