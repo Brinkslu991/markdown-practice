@@ -7,7 +7,7 @@
 
 [Python for Beginners](https://www.youtube.com/watch?v=H2EJuAcrZYU)
 
-`print("Hellow World)`
+`print("Hellow World")`
 
 ## About Me
 - **I like video games**
